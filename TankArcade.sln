@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A8EC561-1D6D-10FB-4592-3A10191C8676}") = "TankArcade", "Assembly-CSharp-firstpass.csproj", "{8EACB3D6-F3DA-C1D3-7732-7D74596140B4}"
+EndProject
+Project("{3A8EC561-1D6D-10FB-4592-3A10191C8676}") = "TankArcade", "Assembly-CSharp.csproj", "{035B16DE-E25C-B7FE-6FA0-4E018D36A9A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EACB3D6-F3DA-C1D3-7732-7D74596140B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EACB3D6-F3DA-C1D3-7732-7D74596140B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EACB3D6-F3DA-C1D3-7732-7D74596140B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EACB3D6-F3DA-C1D3-7732-7D74596140B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035B16DE-E25C-B7FE-6FA0-4E018D36A9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035B16DE-E25C-B7FE-6FA0-4E018D36A9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035B16DE-E25C-B7FE-6FA0-4E018D36A9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035B16DE-E25C-B7FE-6FA0-4E018D36A9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
